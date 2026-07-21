@@ -1,4 +1,4 @@
-# ai-appliance-helper
+# AI-Appliance-Helper
 A camera-powered AI assistant that identifies appliances and provides simple troubleshooting, maintenance, and safety guidance assistance to users 
 
 Point your camera at any appliance and get seamless virtual assistance for every support need—without searching manuals or waiting for a technician.
