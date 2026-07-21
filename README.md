@@ -42,3 +42,50 @@ The assistant should not encourage dangerous electrical, gas, mechanical, or aut
 ## Project Status
 
 Under development for OpenAI Build Week.
+
+# GPT-5.6 Usage
+
+GPT-5.6 powers the intelligent capabilities of the application, including:
+
+- Image understanding
+- Appliance recognition
+- Control and display explanations
+- Troubleshooting assistance
+- Maintenance guidance
+- Safety recommendations
+- Context-aware follow-up conversations
+
+GPT-5.6 serves as the AI engine that provides natural, conversational assistance based on the uploaded appliance image.
+
+---
+
+# Codex Usage
+
+Codex was used during development to improve the software engineering aspects of the project, including:
+
+- Code review and validation
+- Debugging frontend and backend issues
+- UI and CSS refinements
+- React component improvements
+- Backend API enhancements
+- Error handling and validation
+- Project documentation and README improvements
+
+Codex accelerated development while GPT-5.6 powers the application's AI experience.
+
+
+
+# Future Roadmap
+
+- 🎙️ Voice conversations
+- 🌍 Multi-language support
+- 📄 Automatic manual retrieval
+- 📹 Live camera mode
+- 🔍 OCR for appliance labels
+- ☁️ Cloud deployment
+- 📱 Mobile application
+- 🚗 Expanded vehicle dashboard assistance
+- 🏠 Smart home device support
+
+---
+
